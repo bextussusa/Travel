@@ -1,6 +1,6 @@
 (function () {
   // Use relative path so it works in subfolders too
-  const REDIRECT = "privacy.html";
+  const REDIRECT = "index.html";
  
   function buildPopup() {
     // prevent double render
