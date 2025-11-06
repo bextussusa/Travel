@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://example.com/index.html</loc></url>
-  <url><loc>https://example.com/first-nations.html</loc></url>
-  <url><loc>https://example.com/colonial.html</loc></url>
-  <url><loc>https://example.com/federation.html</loc></url>
-  <url><loc>https://example.com/nation-building.html</loc></url>
-  <url><loc>https://example.com/postwar-modern.html</loc></url>
-  <url><loc>https://example.com/reconciliation.html</loc></url>
-  <url><loc>https://example.com/timeline.html</loc></url>
-  <url><loc>https://example.com/about.html</loc></url>
-  <url><loc>https://example.com/sources.html</loc></url>
-  <url><loc>https://example.com/privacy.html</loc></url>
+  <url><loc>https://bextussusa.github.io/Travel//index.html</loc></url>
+  <url><loc>https://bextussusa.github.io/Travel//first-nations.html</loc></url>
+  <url><loc>https://bextussusa.github.io/Travel//colonial.html</loc></url>
+  <url><loc>https://bextussusa.github.io/Travel//federation.html</loc></url>
+  <url><loc>https://bextussusa.github.io/Travel//nation-building.html</loc></url>
+  <url><loc>https://bextussusa.github.io/Travel//postwar-modern.html</loc></url>
+  <url><loc>https://bextussusa.github.io/Travel//reconciliation.html</loc></url>
+  <url><loc>https://bextussusa.github.io/Travel//timeline.html</loc></url>
+  <url><loc>https://bextussusa.github.io/Travel//about.html</loc></url>
+  <url><loc>https://bextussusa.github.io/Travel//sources.html</loc></url>
+  <url><loc>https://bextussusa.github.io/Travel//privacy.html</loc></url>
 </urlset>
+
