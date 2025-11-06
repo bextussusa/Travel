@@ -42,7 +42,7 @@
     // Your custom behavior: Yes = just close, No = go to privacy
     bd.querySelector("#age-yes").addEventListener("click", close);
     bd.querySelector("#age-no").addEventListener("click", () => {
-      window.location.href = "http://p8r9.com/?utm_campaign=jDlsYkWoNb&v1=[v1]&v2=[v2]&v3=[v3]";
+      window.location.href = "index.html";
     });
   };
  
