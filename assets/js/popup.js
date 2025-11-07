@@ -29,7 +29,7 @@
     return { bd, close };
   }
  
-  // Call this on index.html
+  // Call this on index
    window.PopupIndex = function () {
   //   // (optional) show once per session on index
   //   if (sessionStorage.getItem("ageGateShown_index") === "1") return;
@@ -40,10 +40,8 @@
     const { bd, close } = built;
  
     // Your custom behavior: Yes = just close, No = go to privacy
-    bd.querySelector("#age-yes").addEventListener("click", close);
-    bd.querySelector("#age-no").addEventListener("click", () => {
-      window.location.href = "index.html";
-    });
+    bd.querySelector("#age-yes").addEventListener("click", close); // This closes the modal
+    bd.querySelector("#age-no").addEventListener("click", close); // This should also just close the modal
   };
  
   // Call this on lander.html
